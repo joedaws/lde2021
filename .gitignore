@@ -1,3 +1,6 @@
+save/
+images/
+*.zip
 .idea/
 
 # Byte-compiled / optimized / DLL files
