@@ -1,5 +1,5 @@
 # Offline Policy Comparison under Limited Historical Agent-Environment Interactions
-This is the official reopsitory for the paper ''Offline Policy Comparison under Limited Historical Agent-Environment Interactions'' that is available at *link_to_arxiv*.
+This is the official reopsitory for the paper ''Offline Policy Comparison under Limited Historical Agent-Environment Interactions'' that is available at https://arxiv.org/abs/2106.03934.
 
 
 ### Requirements
